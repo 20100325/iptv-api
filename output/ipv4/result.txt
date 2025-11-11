@@ -1,23 +1,33 @@
 🕘️更新时间,#genre#
-2025-11-07 06:18:34,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+2025-11-11 18:21:07,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+CCTV-10,http://220.170.241.204:9901/tsfile/live/0010_1.m3u8
+CCTV-12,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13,http://106.53.99.30/tv/cctv13.php
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
-CETV-1,http://223.10.81.133:8888/rtp/239.1.1.65:8065
+CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广东卫视,http://pa.kuangdeng.top:8081/hls/17/index.m3u8
+广东卫视,http://sh.lnott.top:880/dx40.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
 湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+吉林卫视,http://sh.lnott.top:880/dx37.m3u8
+宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -39,6 +49,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -67,9 +78,6 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://1.195.130.48:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
 七龙珠,http://live.nctv.top/huya.php?id=11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
